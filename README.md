@@ -39,12 +39,6 @@ shape of badge: plastic, flat, flat-square, for-the-badge, social
 </div>
 <br>
 <div align=center>
-	<br>
-
-![Jay Oh's GitHub stats](https://github-readme-stats.vercel.app/api?username=JayM-Oh&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JayM-Oh&layout=compact&theme=radical)
-
 <br>
 <p>🏆 Baekjoon solved Rank 🏆</p>
 	
