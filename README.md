@@ -6,11 +6,11 @@ shape of badge: plastic, flat, flat-square, for-the-badge, social
 
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=Waving&height=200&text=Dev._.Jay|Profile&fontColor=d5e6f5&color=timeGradient&animation=fadeIn)
+  ![header](https://capsule-render.vercel.app/api?type=Waving&height=200&text=$4aron_oh|Profile&fontColor=d5e6f5&color=timeGradient&animation=fadeIn)
 </div>
 <div align=center>
 	
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJayM-Oh&count_bg=%230AD5AC&title_bg=%233D3939&icon=&icon_color=%23E7E7E7&title=Hits%21&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAaron-Oh&count_bg=%230AD5AC&title_bg=%233D3939&icon=&icon_color=%23E7E7E7&title=Hits%21&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
 <br>
 <div align=center>
