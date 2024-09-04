@@ -6,7 +6,7 @@ shape of badge: plastic, flat, flat-square, for-the-badge, social
 
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=Waving&height=200&text=$4aron_oh|Profile&fontColor=d5e6f5&color=timeGradient&animation=fadeIn)
+  ![header](https://capsule-render.vercel.app/api?type=Waving&height=200&text=4aron_oh|Profile&fontColor=d5e6f5&color=timeGradient&animation=fadeIn)
 </div>
 <div align=center>
 	
