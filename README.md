@@ -1,50 +1,41 @@
-<!--page badge button: [Title](https://simpleicons.org/)
-shape of badge: plastic, flat, flat-square, for-the-badge, social
+<!--
+Tech badges: https://shields.io  (style: flat / flat-square / for-the-badge)
+Stats theme: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 -->
-
-<!-- theme of git stat: [Title](https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md)-->
 
 <div align="center">
-  
-  ![header](https://capsule-render.vercel.app/api?type=Waving&height=200&text=4aron_oh|Profile&fontColor=d5e6f5&color=timeGradient&animation=fadeIn)
-</div>
-<div align=center>
-	
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAaron-Oh&count_bg=%230AD5AC&title_bg=%233D3939&icon=&icon_color=%23E7E7E7&title=Hits%21&edge_flat=false)](https://hits.seeyoufarm.com)
-</div>
-<br>
-<div align=center>
-	<h3>📚 Tech Stack 📚</h3>
-	<p>✨ Platforms & Languages ✨</p>
-<img src="https://img.shields.io/badge/Java-000000?style=flat&logo=Java&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
-<img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=Go&logoColor=white" />
-</div>
-<br>
-<div align=center>
-	<p>🛠 IDE tools 🛠</p>
-<img src="https://img.shields.io/badge/Intelli%20J-000000?style=flat&logo=intellijidea&logoColor=white" />
-<img src="https://img.shields.io/badge/PyCharm-3DDC84?style=flat&logo=PyCharm&logoColor=white" />
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />	
+
+### Aaron Oh
+
+**Core Network AI · Security Engineer**
+
+Vulnerability analysis · systems &amp; backend · agentic workflows
 
 </div>
+
+---
+
+Core-network security by day — CVE triage, backend tooling, and LLM-driven
+automation. Mostly Python, comfortable across the Linux systems stack.
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
 <br>
-<div align=center>
-	<p>📡 SNS & Portfolio 📡</p>
-	<!--
-[![Velog Badge](http://img.shields.io/badge/Velog-white?style=flat-square&logo=Velog&link=https://velog.io/@thundevistan/)](https://velog.io/@thundevistan)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kotdev99@gmail.com)](mailto:kotdev99@gmail.com)
-[![Notion Badge](http://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&link=https://www.notion.so/c7f0510ec8914f148131407bf14053d1?pvs=4)](https://www.notion.so/c7f0510ec8914f148131407bf14053d1?pvs=4)
--->
-</div>
-<br>
-<div align=center>
-<br>
-<p>🏆 Baekjoon solved Rank 🏆</p>
-	
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=v0voun127)](https://solved.ac/v0voun127)
+
+<a href="https://github.com/Aaron-Oh">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Aaron-Oh&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent" alt="GitHub stats" />
+</a>
+<a href="https://github.com/Aaron-Oh">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaron-Oh&layout=compact&hide_border=true&langs_count=8&theme=transparent" alt="Top languages" />
+</a>
 
 </div>
-<br>
-
-![](./profile-3d-contrib/profile-night-rainbow.svg)
